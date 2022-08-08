@@ -1,0 +1,11 @@
+{
+  "name": "funtional-programming",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev": "npx nodemon index.js --watch code.js"
+  }
+}
